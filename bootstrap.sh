@@ -3,7 +3,7 @@
 supo apt update
 
 sudo apt-get install -y python-pip python-numpy python-matplotlib \
-    python-scipy python-gdal python-shapely curl
+    python-scipy python-gdal python-shapely curl ipython
 
 sudo pip install geojson
 
