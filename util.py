@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""
+General utils for loading and saving Raster and Vector data using 
+gdal python bindings and shapely, respectively. 
+"""
 import gdal
 import numpy
 import geojson
